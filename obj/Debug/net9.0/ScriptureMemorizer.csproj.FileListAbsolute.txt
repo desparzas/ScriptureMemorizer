@@ -1,0 +1,14 @@
+D:\dev\byu\cse210\ScriptureMemorizer\bin\Debug\net9.0\ScriptureMemorizer.exe
+D:\dev\byu\cse210\ScriptureMemorizer\bin\Debug\net9.0\ScriptureMemorizer.deps.json
+D:\dev\byu\cse210\ScriptureMemorizer\bin\Debug\net9.0\ScriptureMemorizer.runtimeconfig.json
+D:\dev\byu\cse210\ScriptureMemorizer\bin\Debug\net9.0\ScriptureMemorizer.dll
+D:\dev\byu\cse210\ScriptureMemorizer\bin\Debug\net9.0\ScriptureMemorizer.pdb
+D:\dev\byu\cse210\ScriptureMemorizer\obj\Debug\net9.0\ScriptureMemorizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\byu\cse210\ScriptureMemorizer\obj\Debug\net9.0\ScriptureMemorizer.AssemblyInfoInputs.cache
+D:\dev\byu\cse210\ScriptureMemorizer\obj\Debug\net9.0\ScriptureMemorizer.AssemblyInfo.cs
+D:\dev\byu\cse210\ScriptureMemorizer\obj\Debug\net9.0\ScriptureMemorizer.csproj.CoreCompileInputs.cache
+D:\dev\byu\cse210\ScriptureMemorizer\obj\Debug\net9.0\ScriptureMemorizer.dll
+D:\dev\byu\cse210\ScriptureMemorizer\obj\Debug\net9.0\refint\ScriptureMemorizer.dll
+D:\dev\byu\cse210\ScriptureMemorizer\obj\Debug\net9.0\ScriptureMemorizer.pdb
+D:\dev\byu\cse210\ScriptureMemorizer\obj\Debug\net9.0\ScriptureMemorizer.genruntimeconfig.cache
+D:\dev\byu\cse210\ScriptureMemorizer\obj\Debug\net9.0\ref\ScriptureMemorizer.dll
